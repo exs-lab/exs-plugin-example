@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "exs-core>=0.1.1",
-    "ignis",
+    "ignis @ git+https://git@github.com/ignis-sh/ignis.git",
 ]
 
 [tool.uv.sources]
