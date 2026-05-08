@@ -1,3 +1,4 @@
 [plugin]
 name = "Example Plugin"
 shell = "exs-shell"
+module = "example_plugin"
